@@ -1,0 +1,11 @@
+export './welcome_page.dart';
+export 'guru_page.dart';
+export 'siswa_page.dart';
+export 'Dashboard.dart';
+export 'MainGuru.dart';
+export 'UserTata.dart';
+export 'matpelScreen.dart';
+export 'screenGuru.dart';
+export './matpel/onlyView.dart';
+export 'SiswaOnlyView.dart';
+export 'NilaiView.dart';
